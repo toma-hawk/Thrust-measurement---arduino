@@ -4,7 +4,8 @@ This project allows an Arduino to interface with a desktop computer to read in v
 
 Control of the motor can be scripted to produce repeatable tests by giving specific input values to the motor controller. Using feedback from the sensors, the motor can be made to adjust its speed to meet a desired sensor reading (eg. thrust, rpm). The software to make this happen consists of an Arduino 'sketch' and a python script, which communicate with each other over a USB/serial (UART) connection. 
 
-![image to be inserted]()
+![](IMG_20200309_101448)
+![](IMG_20200309_101503)
 
 ## Requirements
 
