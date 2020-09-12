@@ -135,7 +135,7 @@ Taring of load cell can be done in the initial stages of the python script execu
 
 ## Test samples
 
-Below files are generated using random loads and different motor prop combinations
+Below files are generated using random loads and different motor prop combinations.
 - [Sample1](thrust%20setup%2027_02_2020%20test1_avioncs_2830kv_1045.csv)
 - [Sample2](thrust%20setup%2027_02_2020%20test2_avioncs_2830kv_1045.csv)
 - [Sample3](thrust%20setup%2027_02_2020%20test3_avioncs_2830kv_1105.csv)
